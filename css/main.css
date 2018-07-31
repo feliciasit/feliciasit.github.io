@@ -1,5 +1,5 @@
 body {
-    margin: 50px;
+    margin: 70px;
 }
 
 nav ul {
@@ -14,24 +14,24 @@ nav ul li {
 
 a {
     text-decoration: none;
-    color: #000000
+    color: #000000;
 }
 
 a:hover {
     text-decoration: underline;
-    color: #6d6d6d
+    color: #6d6d6d;
 }
 
 h1 {
     font-size: 14px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #6d6d6d
+    color: #000000;
 }
 
 h2 {
     font-size: 12px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #6d6d6d
+    color: #6d6d6d;
 }
 
 
