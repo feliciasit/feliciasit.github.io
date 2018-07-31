@@ -1,16 +1,14 @@
 body {
     margin: 30px;
-   
 }
 
-nav ul, footer ul {
+nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 14px;
-    padding: 0px;
     list-style: none;
 }
 
-nav ul li, footer ul li {
+nav ul li {
     display: inline;
 }
 
